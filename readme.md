@@ -3,7 +3,7 @@
 
 
 ## Description
-
+**MDEC**
 (Pronounced ehm * dehk)
 This is a clone of the old MS-DOS editor "Edit".
 Seems like clones of this are hard to come by, so I decided I'd try my hand at it.
@@ -17,7 +17,16 @@ www.twitter.com/callme_brownie
 www.facebook.com/davey453267
 
 Tenpenny Softworks:
-Support@tenpennysoft.com
+Support@dctechdev.com
+
+## Spec
+***See "Spec.md"***
+
+
+
+
+
+
 
 
 ## Versioning
