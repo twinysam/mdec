@@ -1,7 +1,9 @@
 # Specification for MDEC [MS-Dos Edit Clone]
 
 ## Technical Specifications
+To create a seperation of concerns we will be using a Model-View-Controller architecture.
 
+![MVC](./MVC.png)
 
 ## Design Specifications
 
